@@ -11274,7 +11274,7 @@ node-releases@^1.1.53:
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.53.tgz#2d821bfa499ed7c5dffc5e2f28c88e78a08ee3f4"
   integrity sha512-wp8zyQVwef2hpZ/dJH7SfSrIPD6YoJz6BDQDpGEkcA0s3LpAQoxBIYmfIq6QAhC1DhwsyCgTaTTcONwX8qzCuQ==
 
-node-sass-tilde-importer@^1.0.2:
+node-sass-tilde-importer@1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/node-sass-tilde-importer/-/node-sass-tilde-importer-1.0.2.tgz#1a15105c153f648323b4347693fdb0f331bad1ce"
   integrity sha512-Swcmr38Y7uB78itQeBm3mThjxBy9/Ah/ykPIaURY/L6Nec9AyRoL/jJ7ECfMR+oZeCTVQNxVMu/aHU+TLRVbdg==
@@ -16014,10 +16014,10 @@ vanilla-framework@2.10.0:
   resolved "https://registry.yarnpkg.com/vanilla-framework/-/vanilla-framework-2.10.0.tgz#74c0cba977ce058552aa4443cccaa6bbf9308e9e"
   integrity sha512-otQLBXzRBLyiN8RFtHP0E19Iy2p3Frbm7E4TIU7Q7LN+ScmfmgAc7InqbYXvTL9oIATTs0sBD7T/2Fzezgmalg==
 
-vanilla-framework@2.10.1:
-  version "2.10.1"
-  resolved "https://registry.yarnpkg.com/vanilla-framework/-/vanilla-framework-2.10.1.tgz#66d06ca99bfe92deba742bf67fe55c7d321479f3"
-  integrity sha512-ojwn6XbyJB2VlelFbcB9grYShT49smbjPHP2O+zYsIbPIswX4ATt7MeNLLuHkOrK1lkreIB583vN1Y5D9lwi0Q==
+vanilla-framework@2.12.1:
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/vanilla-framework/-/vanilla-framework-2.12.1.tgz#45a5265acd5cac55089322aaa1d03bd2da2334dd"
+  integrity sha512-y6O3EODqpTDp5DZG2pGP3HjMbGOOeslu4jCDRhfWtzI9znxG3D8eSlIPjjxkgTsxALup5mMuScmS9RWlbdF7cA==
 
 vary@~1.1.2:
   version "1.1.2"
